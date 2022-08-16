@@ -17,7 +17,7 @@ A simple home page for a law firm created using
 
 **Time took to complete this project :** 3 hours
 
-## What I learnt by doing this project :-
+## What I learnt by creating this project :-
 
 - How to create a navigation bar
 - How to use CSS `display` property to arrange items in a row

@@ -24,4 +24,4 @@ A simple home page for a law firm created using
 - How to use `margin` and `padding` properties to provide space between elements
 - How to use CSS position `absolute` to position footer at the bottom of a page
 
-### [**Live link**](https://portfolio-project-3.vercel.app/) of the project.
+### [**Live link**](https://portfolio-project-3.vercel.app/) of the project
